@@ -1,1 +1,2 @@
 # sqlalchemy-challenge
+Hawaii Climate Analysis & API provides an in-depth examination of Hawaii's climate data, analyzing precipitation patterns and station activity from the hawaii.sqlite database using SQLAlchemy, Pandas, and Matplotlib. Post-analysis, a Flask API offers several endpoints: showcasing a summary of available routes, delivering precipitation data from the recent year, listing dataset stations, providing temperature observations from the most active station over the past year, and computing temperature statistics for specified date ranges.
